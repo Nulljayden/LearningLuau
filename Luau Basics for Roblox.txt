@@ -8,7 +8,7 @@ formatted page with headers - https://docs.google.com/document/d/1ymideLiMU61-ve
 Variables:
 
 
-cocal ExampleVariable1 = 5 #a regular local variable
+local ExampleVariable1 = 5 #a regular local variable
 ExampleVariable2 = 10 #This is a global variable, Dont use this
 local myString = "Hello World!" #quotations make this a string variable
 local value = "Hello ".."World!" #This simply prints "Hello World" after combining the variables
